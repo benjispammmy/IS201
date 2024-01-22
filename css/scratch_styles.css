@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #1a1a1a;
+    background-color: #dbd0b1;
+}
+a:visited {
+    color: rgb(255, 0, 60);
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14 px;
+    color: #0c0329;
+    font-weight: normal;
+}
+.dotted {text-decoration: dotted;}
+.underline {text-decoration: underline;}
+.bold{font-weight: bold;}
